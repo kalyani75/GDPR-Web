@@ -1,0 +1,12 @@
+Rep : Can I speak to Krishna Raj.
+Caller : This is he 
+Rep : Hi Mr Raj , this is Jane calling from ABC . Your account is showing due for April , let me advise you this call may be monitored or recorded for quality purposes.
+Caller : I will make the make payment on 25th of the month, I had pay for my sons education this month. Being an Indian I need to do that.
+Rep : Please be advised the credit bureau reporting happens every 30 days and late charges are assessed after 15 days from the due date.
+Caller : Yes I am aware about it , however my employer pays me on 25th and I will make the payment to bring the account current
+Rep : Thank you Mr Raj . I would like to inform you that this has a negative effect on your credit rating. Is there any thing else you will like to know about the account.
+Caller : what is the email address associated with this account?
+Rep: Please confirm your year of birth
+Caller: It is 1973
+Rep : : Thank you. Email Id is kraj@yahoo.com.Thanks for doing business with ABC you have a good day bye bye
+Caller : Bye bye

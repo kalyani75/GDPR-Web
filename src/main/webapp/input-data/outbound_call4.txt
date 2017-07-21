@@ -1,0 +1,15 @@
+AGENT: Hello this is Darrick trying to reach David Ronney 
+Caller:   Yes this is he
+AGENT: This call may be monitored or recorded for quality purposes Do you have time to talk
+Caller:  I am driving but I have the time
+AGENT: I am reaching out as per our appointment was set to discuss you account how may I help you
+Caller:  I just wanted to make sure that we get on board of 414 dollars I had my wife gone to the bank.. I had problem with the bank I send that to restart my thing.. The lower rate Freddie mac or whatever was called
+AGENT: So are you referring to modification offer that you received 
+Caller:   Yes sir
+AGENT: Have you made the first payment
+Caller:  Well the bank had problem I could not make it I had money in it on January 1st.
+AGENT: Has the payment been made now
+Caller: Yes
+AGENT: ok. Also I need you provide me with your passport number.
+Caller: ok it is 236409812
+Agent: ok thanks

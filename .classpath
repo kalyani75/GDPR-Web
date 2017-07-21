@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src.main.java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/kalyanideshpande/Downloads/wlp/dev/api/spec/com.ibm.ws.javaee.jaxrs.2.0_1.0.14.jar"/>
+	<classpathentry kind="lib" path="/Users/kalyanideshpande/Downloads/wlp/dev/api/ibm/com.ibm.websphere.appserver.api.json_1.0.14.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/kalyanideshpande/Downloads/wlp/dev/api/ibm/javadoc/com.ibm.websphere.appserver.api.json_1.0-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/kalyanideshpande/Downloads/wlp/dev/api/spec/com.ibm.ws.javaee.servlet.3.0_1.0.14.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,11 @@
+Rep – Thank you for calling ABC, this is Rina.
+Caller – hi Rina, I wanted to check if my payment shows processed for this month.
+Rep - can I have your account number.
+Caller – 12345647
+Rep – I need to inform you “This is an attempt to collect a debt, any information obtained will be used for those purposes”
+Rep – thank you, your payment shows processed today for the amount of $265.
+Caller – ok thank you
+Rep – Is there anything I can help you with.
+Caller – no that’s all.
+Rep – Ok thank your for calling ABC , bye.
+Caller – bye

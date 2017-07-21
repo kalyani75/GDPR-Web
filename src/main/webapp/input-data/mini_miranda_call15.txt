@@ -1,0 +1,13 @@
+Rep : Thank you for calling ABC may I have you name and account number
+Caller : my name is Cynthia vas , account number is 114578963
+Rep : Thank you , Please be advised this is an attempt to collect a debt any information obtained will be used for that purpose, may I have the last 6 of the SSN
+Caller : 178963
+Rep Thank you , how may I help you . 
+Caller : I got a call this morning about the status of my file
+Rep : I do see we are still awaiting the final decision by the underwriter, it must have been the weekly follow up call by your SPOC agent
+Caller ; Thanks , is there any document pending
+Rep : None at this moment that I can see
+Caller : ok I don’t understand. I am a 50 year old respectable man working as a technical executive with a reputed IT firm. Whats holding up my request.
+Rep:I will check on it. Is there anything else I may help you with
+Caller: no bye 
+Caller thanks have a good day

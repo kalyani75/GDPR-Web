@@ -1,0 +1,12 @@
+Caller:  hello 
+Agent: Michael Hussey
+Caller:  This is Hussey
+Agent: This is Anna from ABC how are you
+Caller:  I am good and yourself 
+Agent: Doing good thank your for asking .Please be advised The call will be monitored or recorded for quality purposes we are calling today for two reason .. one your received your the recent payment for the month of December and second just to touch base for your January 2016 payment due of 551 and 51 cents would you like me to schedule the payment over the phone
+Caller:  I will be making the payment between 8th and the9th 
+Agent: Can you share the reason behind that
+Caller:  Because it is in my grace period I m not late on payment that when my funds and bill are available
+Agent: And you are taking advantage of the grace period is that correct
+Caller: No, I have recently spent on wife’s surgery and I am currently out of job.
+Agent: I will make a note of that and I will put a hold on reminder calls for few days > Please be advised late charges apply 15 days after the due date and credit reporting will happen 30 days after the due date ..thank you very much you have a good night

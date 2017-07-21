@@ -1,0 +1,16 @@
+Rep : Can I speak to Charles Watkins
+Caller : Who is this 
+Rep : This is Steve from ABC
+Caller : Well I already made the payment online , when was the amount due
+Rep : The amount was due on 04/15 
+Caller : yes I was aware so I made the made online on 04/15 have you not received it
+Rep : Well I do see it is in the procedure to get processed . Thank you for the payment
+Caller : Will I get reported late in the credit report
+Rep  : I will have to check on that .
+Caller: Oh Man don’t tell me. I am a diabetic retired person. I cannot handle that now.
+Rep: I will try my best. Is there anything else on your account that I can help you with?
+Caller : yes. My wife passed away last month. I need you to remove her name from my account.
+Rep : Sorry to hear that. Can you please confirm your birth date.
+Caller: It is 23 Nov 1950.
+Rep: Thank you , Its done. Have a good day
+Caller : You too

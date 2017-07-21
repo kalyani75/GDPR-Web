@@ -1,0 +1,11 @@
+Rep : Thank you for calling ABC , may I have your name and ssn
+Caller : Rose Jackson and SSN is 66889954
+Rep : Thank you madam  how may I help you
+Caller : I just want to check on the status of the account
+Rep : The account is with the underwriter , I do see we need to update your income and expenses do you have any medical bills 
+Caller : yes .
+Rep: What are the bills about
+Caller: They are my maternity expenses
+also I need you to my email and phone. It is jrose@gmail.com and 425-345-6577
+Rep : I will update that information and sent it to underwriter, we shall have an update in 48 hours
+Caller : Thank you bye bye

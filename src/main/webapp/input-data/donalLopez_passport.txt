@@ -1,0 +1,15 @@
+Rep : Thank you for calling ABC this is Morgan , how may I help you
+Caller : Hi My name is Donald Lopez, my account number is 11224456
+Rep : Thank you sir , may I have your last 6 of the SSN or your date or birth
+Caller : SSN is 759864 and DOB is 29 Dec 1980.
+Rep : Thank you sir , how may I help you
+Caller : I wanted to check on the status of the deed in lieu
+Rep : The deed in leiu shows as approved we are in the process of making the final documents
+Caller : Thank you , how does it impact my credit report. Does it affect since I am Mexicon?
+Rep : It will get reported to your credit report as deed in lieu. Your nationality will not affect the report.However please provide me with your passport number
+Caller : Ok ..it is 345623456  , do you know by when will I get the final documents
+Rep : it should take about 48-72 hours for it to get updated. I will send a copy on your email id dlopez@gmail.com
+Caller :  ok Thanks.Also I need you to update  my contact number . It is 914-234-6788
+Rep : its my pleasure , thank you for calling ABC
+Caller : bye bye
+Rep : Bye

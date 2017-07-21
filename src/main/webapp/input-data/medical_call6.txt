@@ -1,0 +1,13 @@
+Caller : I am calling in regards to payment 
+Rep : The transferring erp did advise me you want to make a payment , may I have your name and SSn again
+Caller : Oh Gosh so many times I have to give the same information my name is Jill Parries and my ssn is 745874568
+Rep : Thank you mam . May I know the amount that you will like to pay
+Caller : how much is due 
+Rep : 1256 dollars
+Caller : I don’t have that much in my debit card , can you process the payment for tomorrow using the debit card
+Rep : We cannot post date a debit card , you can give us a call back to make the payment
+Caller : Ok I will call back
+Rep : may I know the reason why you fell behind
+Caller : I was waiting for my disability check and that has also left me without a job. 
+Rep Thank you I will make a note of it , is there anything else I may help you with
+Caller : Thank you

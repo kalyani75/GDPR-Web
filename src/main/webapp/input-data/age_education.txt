@@ -1,0 +1,12 @@
+Rep: Thank you for calling ABC, This is Natasha.
+Caller: Hi my name is Rina Mendis. I am calling in regards to my account.
+Rep: can I have your account number.
+Caller: My account number is 3452346
+Rep: can I have the last 6 of your ssn.
+Caller: 235487
+Rep: Thank you, before we go ahead with the call let me advise you “since you are living In the state of North Decota - This is an attempt to collect a debt, any information obtained will be used for those purposes”
+Caller: I want my account balance.
+Rep: It is showing your account is due for the month of April for the amount of $265.
+Caller: Thanks, I am 27 year old law graduate and I need a loan for my office. Also I am an Mexican. Can you help me here
+Rep. Sure I will send you some forms you needs to fill. Please confirm your email Id  RinaMedis@lawyers.com
+Caller: Thanks right. Thanks

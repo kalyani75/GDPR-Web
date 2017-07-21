@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PI Discovery App</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport"
+	content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" media="screen" charset="utf-8"  href="bootstrap/css/bootstrap.css"> </link>
+<!-- CSV ADD -->
+<link rel="stylesheet" type="text/css" href="jquery.dataTables.css" /> 
+<link rel="stylesheet" type="text/css" href="dataTables.tableTools.css" /> 
+<link rel="stylesheet" type="text/css" href="jquery-ui.css">
+<!-- <link rel="stylesheet" type="text/css" href="csvstyles.css">-->
+</head>
+<body >
+
+<div class = "maintitle">
+
+			<h1> <span class="blue">GDPR - Personal Information Discovery</span> </h1>
+				
+</div>
+
+<div class="subText">Select the file and click on the link to extract <span class="blue">Personal Information</span>
+</div>
+
+        <ul class="tabs">
+         <li class="tab-link current" data-tab="leftHalf-Single">Classify a Document</li>
+         <li class="tab-link" data-tab="leftHalf-Multi">Batch Classify</li>         
+        </ul>
+<div id="leftHalf-Single" class = "leftHalf current">
+					<header><div  class="description"><h3>Documents</h3></div></header>
+							
+			<div  id="subTitle" class="subTitle"></div>				 
+			 
+			 <div style="height:80%;width:98% ; overflow:auto; margin-left:5px; padding-right:2px">
+				<table id='transcript' class='transcript'><tbody></tbody></table>
+			</div>
+			<div id="loading"></div>
+</div>
+<div id="leftHalf-Multi" class = "leftHalf">
+			<header><div  class="description"><h3>Batch Process</h3></div></header>
+				<div  id="gap" class="gap"></div>		
+				<div id="browse" align="center">
+				<!--  	<input width="100" type="file" name="my_file[]" multiple> <input type="submit" value="Classify" class="btn btn-info btn-default active" onClick="classify(this)"">-->
+           		</div>
+</div>
+
+<div class = "rightHalf" >
+	
+			<header><div class="description" id="checkResults"></div></header>
+			<div id="single-file">
+				<div id="selectedFileName" class="selFile" ></div>
+				<div id="Sensitivity" ></div>
+				
+				 <div style="height:80%;width:98% ; overflow:auto; margin-left:5px; padding-right:2px">
+					<table id='ruleresults' class='records' ><tbody></tbody></table>
+	 			</div>
+				<div id="loadingresults" align="center"></div>
+			</div>
+			<!-- CSV TABLE -->
+
+<div id="multi-files" class="data-table" style="height:90%;width:98%  ; overflow:auto">
+	<section>
+		<table id="data" class="display"></table>
+	</section>
+</div>
+
+<br/>
+
+			<!-- CSV TABLE END -->
+			
+</div>
+
+
+
+
+<div class="middle">
+	<div id="viewFileLoad" align="center"></div><br>
+    
+    	<form class="form-horizontal">
+			<div class="form-group">			    
+			    <div class="col-sm-6">
+			      <input class="btn btn-success btn-default active" type="button" onclick="editContent();" value="Edit" />  
+			      <input class="btn btn-default btn-default active disabled" id="saveContent" type="button" onclick="saveTranscript();" value= "Save" />			      
+			    </div>
+			    <div id="filecontentTitle" class="col-sm-6" style="color:white ; font-size: 20px"></div> 
+			</div>	        
+	    </form>
+			<textArea id="viewcontent" name="transcript" disabled="disabled" class="filecontent" ></textArea> 
+		
+</div>
+
+<div class="middle">
+	<div id="viewTransformedFileLoad" align="center"></div><br>
+    <div id="transformedFilecontentTitle" class="filecontentTitle"></div>
+	<pre id="transfromedViewcontent" class="filecontent" ></pre>
+</div>
+<!--  <script type="text/javascript" src="jquery-3.2.0.js"></script>-->
+<!--  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>-->
+<script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript"  src="jquery.dataTables.min.js"></script>
+<script type="text/javascript"  src="dataTables.tableTools.js"></script>
+<!--  <script src="cdn.datatables.net/buttons/1.3.1/js/buttons.html5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.2.0/ZeroClipboard.Core.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.3.1/js/buttons.flash.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.3.1/js/dataTables.buttons.min.js"></script>-->
+<script type="text/javascript" src="util.js"></script>
+<script type="text/javascript" src="index.js"></script>
+
+<!-- CSV ADD-->
+
+
+<script type="text/javascript" src="csv.js"></script>
+<!-- <script type="text/javascript" class="init"></script>-->
+
+<footer>
+			
+	</footer>
+</body>
+</html>

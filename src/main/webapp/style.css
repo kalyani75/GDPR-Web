@@ -1,0 +1,447 @@
+/* style.css
+ * This file provides css styles.
+ */
+body,html {
+	background-color: #b797c3;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light",
+		"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #000000;
+}
+
+.maintitle {
+	min-width: 100%; 
+	display: inline-block; 
+	background-color: #2a164d;
+	height: 10%;
+	 }
+.subText {
+	padding-left: 20px;
+	text-align: left;
+	margin:10px;
+	
+}
+/*KD tabs*/
+.container{
+
+	width: 35%;
+	height: 65%;
+
+}
+ul.tabs{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	margin-left:5px;
+}
+ul.tabs li{
+	background: #d3cfde;
+	color: #000000;
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
+	border-bottom: solid #ffffff;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+ 
+ul.tabs li.current{
+	background: #2a164d;
+	color: #ffffff;
+	border-bottom: solid #2a164d;
+}
+ 
+.tab-content{
+	display: none;
+	background: #2a164d;
+	padding: 15px;
+}
+ 
+.leftHalf.current{
+	display: inherit;
+}
+/*KD tabs*/
+
+.leftHalf{
+	float: left;
+	background-color: #2a164d;
+	width: 35%;
+	height: 65%;
+	 font-size: 0.9em;
+	 overflow: auto;
+	 margin-left:5px;
+	display: none;
+	padding: 15px;
+}
+.middle {
+	float: left;
+	background-color: #2a164d;
+	width: 99%;
+	height: 400px;
+	 font-size: 0.9em;
+	 overflow: auto;
+	 margin:5px;
+	 
+}
+
+.rightHalf {
+	float: right;
+	width: 64%;
+	background-color: #2a164d;
+
+	background: -moz-linear-gradient(left, #2a164d, #9a8dcd);
+	height: 65%;
+	overflow: auto;
+	font-size: 0.9em;
+	margin-right:5px;
+	
+}
+ 
+ .description {
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+}
+ .gap {
+	padding-top: 5px;
+	padding-right: 5px;
+	text-align: center;
+}
+.subTitle {
+	font-weight: bold;
+	margin:5px;
+	padding-right: 3%;
+    text-align: right;
+}
+.butn {
+	font-weight: bold;
+	
+	padding-left: 10%;
+	padding-right: 10%;
+    text-align: right;
+    color: #ffffff;
+    background-color: #00aed1;
+    align: center;
+    border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+a {
+	text-decoration: none;
+	color: #00aed1;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 2em;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.GREEN{
+	
+	margin:5px;	
+	padding-left:0.5%;
+	color :#33cc99;
+	display:inline-block;
+	float:right;
+	font-weight: bolder;	
+}
+.RED{
+	
+	margin:5px;	
+	padding-left:0.5%;
+	color :#c40c18;
+	display:inline-block;
+	float:right;
+	font-weight: bolder;	
+}
+.YELLOW{
+	
+	margin:5px;	
+	padding-left:0.5%;
+	color :#e2dc38;
+	display:inline-block;
+	float:right;
+	font-weight: bolder;	
+}
+.selFile{
+	
+	margin:5px;	
+	padding-left:0.5%;
+	color :#33cc99;
+	display:inline-block;
+	float:left;
+	font-weight: bolder;	
+}
+.blue {
+	color: #00aed1;
+}
+
+
+
+.filecontentTitle {
+	min-width: 100%; 
+	display: inline-block; 
+	padding-left: 5px;
+	color: white;
+	padding-top: 20px;
+	font-weight: bolder;
+	 }
+
+ 
+.filecontent {
+     width: 99%;
+     height: 85%;
+     margin-left: 5px ;     
+     overflow: auto;
+	 text-align: left;
+	 border:1px solid; border-color:grey;
+	 
+	 }
+	 
+
+
+/* header footer common */
+header,footer {
+	width: 100%;
+	text-align: center;
+	color: #fff;
+}
+
+pre:empty {
+   display: none;
+}
+
+/* content width */
+.title,.tips,section,.records {
+	width: 98%;
+}
+
+
+@media ( max-width : 600px) {
+	.title,.tips,section {
+		width: 100%;
+	}
+}
+
+.center {
+	padding-top: 10%;
+}
+
+/* alignment */
+.title,.tips,section,.records {
+	margin: 0 auto;
+}
+
+/* foreground color */
+.title,.tips {
+	
+}
+
+/* table details */
+table {
+    border-collapse: collapse;
+   width: 200%;
+    word-wrap: break-word;
+	position: relative;
+}
+
+ .tablescroll{ padding-left: 90px; max-height: 360px;width:500px;overflow-y:auto;overflow-x:hidden;}  
+.transcript th, td {
+    text-align: left;
+    padding: 1px;
+    border: 1px solid #ddd;
+	font-family: Arial; font-size: 11pt;
+
+	
+}
+
+table.transcript{
+	height: 100%;
+	width: 100%
+}
+
+
+ .transcript {
+	width: 500px;
+	padding-left: 90px;
+	margin: 0 auto;
+	height:300px;
+	border-collapse:collapse;
+} 
+
+
+.records th, td {
+	border: 2px solid #aaa;
+    text-align: left;
+    padding: 1px;    
+	font-family: Arial; font-size: 11pt;
+}
+
+
+table.records {
+	width: 98%;	
+}
+
+thead tr:nth-child(odd) { background-color: #d3cfde}
+tbody tr:nth-child(even){background-color: #d3cfde}
+tbody tr:nth-child(odd){background-color: #ffffff}
+
+thead {
+	height: 40px;
+}
+.tbradio{
+	width:10%;
+}
+
+td.yes{
+	background-color : green
+}
+
+td.no {
+	background-color: red
+}
+
+td.na {
+	background-color: orange
+}
+
+/* .records tr:nth-child(odd) {
+	background: #374550
+}
+ */
+
+/* positions */
+header {
+	padding-top: 6px;
+	font-weight: bolder;
+	font-size: 1.3em;
+}
+
+footer {
+	padding-top: 20px;
+	position: relative;
+}
+
+.title,.tips {
+	height: 30px;
+	padding-top: 10px;
+	position: relative;
+}
+
+.title {
+	border-radius: 10px 10px 0 0;
+}
+
+.tips {
+	border-radius: 0 0 10px 10px;
+}
+
+.rulebackground {
+	background-color: #eaf1f4;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+}
+
+.rulebg {
+	padding-top: 2%;
+	float: left;
+	background-color: #eaf1f4;
+	width: 100%;
+	height: 100%;
+	font-size: 0.9em;
+	overflow: auto;
+	margin: 5px;
+}
+
+.rulefooter {
+	background-color: #eaf1f4;
+	padding-top: 5px;
+	position: relative;
+}
+
+.rulemaintitle {
+	padding-top: 30px;
+	align: centre;
+	min-width: 100%;
+	display: inline-block;
+	background-color: #152935;
+	height: 8%;
+	box-shadow: 0 0 5pt 1pt rgba(0, 0, 0, 0.3);
+}
+
+.rulesubtitle {
+	padding-top: 5px;
+	min-width: 100%;
+	display: inline-block;
+	background-color: #26343f;
+	height: 8%;
+}
+
+.rulesubText {
+	padding-left: 25px;
+	color: white;
+}
+
+.ruleLabel {
+	
+	border: 1px solid #ddd;
+	padding: 10px;
+	font-color: #ffffff;
+	
+	float: left;
+	background-color: #527087;
+	width: 200px;
+	height: 25px;
+	margin-left: 22%;
+	overflow: auto;
+}
+
+.ruleValue {
+	border: 1px solid #ddd;
+	padding: 10px;
+	float: left;
+	background-color: #bbcbd7;
+	width: 800px;
+	height: 25px;
+	padding-left: 10px;
+	font-size: 0.9em;
+}
+
+.ruleText {
+	border: 1px solid #ddd;
+	padding-top: 1px;
+	overflow: auto;
+	background-color: #ffffff;
+	width: 553px;
+	height: 25px;
+	margin-left: 5px;
+}
+
+.content {
+	padding: 5px;
+}
+
+
+
+button {
+	outline: none;
+}
+
+textArea{
+	color : black;
+}
+
+.fieldname {
+	text-align: right;
+}

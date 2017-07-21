@@ -1,0 +1,40 @@
+
+	.Instrumentation   header
+	{
+		display:none;
+	}
+	.Reports   #wrapper
+	{
+		background: #2f3243;
+	}
+	.search_input_wrapper .q
+	{
+		display: none;
+	}
+	.icon_search{
+		display: none;
+	}
+	.wex-container {
+		padding-top: 0!important;
+		overflow-y: hidden;
+	}
+	.whiteLabel {
+		color:#fff;
+	}
+	.widget {
+		background-color: #292b3a;
+		border:none;
+	}
+	tr.group,
+	tr.group:hover {
+		background-color: #ddd !important;
+	}
+	th {color:white !important; word-wrap:break-word;}
+	td {color:#40c19a !important; word-wrap:break-word;}
+	.datatable th
+	.datatable td {
+		overflow: hidden; /* this is what fixes the expansion */
+		text-overflow: ellipsis; /* not supported in all browsers, but I accepted the tradeoff */
+		white-space: nowrap;
+		table-layout: fixed;
+	}

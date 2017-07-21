@@ -1,0 +1,11 @@
+Caller : Theresa
+Rep : Theresa Haynes
+Caller Yes who is this
+Rep : jim from ABC
+Caller : Can yopu make it little quick I have a doctors appointment in 20 mins
+Rep : Well I called up to get some more details of your self since your loan request is high. What surgery did you have ?
+Caller ; Oh that’s great news thank you so much. It was kidney transplant.
+Rep: I will make a note of that. Can you please tell me you educational background and your employer
+Caller: I am Law graduate and I work with the Xmas Law firm.
+Rep : Thanks,  I will send the documents to your email id thaynes@msn.com once we have them ready . 
+Caller : OK.Thank you

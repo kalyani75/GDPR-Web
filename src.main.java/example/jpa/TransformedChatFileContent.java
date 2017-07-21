@@ -1,0 +1,56 @@
+package example.jpa;
+
+import java.io.IOException;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.QueryParam;
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.WebTarget;
+import javax.ws.rs.core.MediaType;
+
+import com.ibm.json.java.JSON;
+import com.ibm.json.java.JSONArray;
+import com.ibm.json.java.JSONObject;
+
+import common.Constants;
+
+// This class define the RESTful API to fetch the results  for each rules for Chat Transcript Files
+// <basepath>/api/ruleresult
+
+@Path("/viewTransformedFile")
+public class TransformedChatFileContent {
+
+
+	
+	@GET 
+	public String getTransformedFileInformation(@QueryParam("id") String fileName)
+			throws Exception, IOException {
+
+		System.out
+				.println("~~~~~~~~~~~~~ ChatFileContent :::::: Fetching File Content of Chat Transcript File "
+						+ fileName);
+
+		String apiUrl = Constants.BASE_PATH +  "/api/transformedtranscript/"
+				+ fileName;
+
+		//Invoke the API and fetch the transcript File Content
+		Client client = ClientBuilder.newClient();
+		WebTarget target = client.target(apiUrl);
+
+		String response = target.request(MediaType.APPLICATION_JSON).get(
+				String.class);
+
+		JSONObject jobj = (JSONObject) JSON.parse(response);
+		
+		JSONObject fileContentObj = new JSONObject();
+		fileContentObj.put("filecontent", jobj);
+		
+		System.out
+				.println("~~~~~~~~~~~~~ ChatFileContent ::::::ChatFileContent.toString()::::"
+						+ jobj.toString());
+		return fileContentObj.toString();
+
+	}
+}

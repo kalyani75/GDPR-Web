@@ -1,0 +1,15 @@
+Rep : Thank you for calling ABC how may I help you
+Caller : HI This is in regards to my account
+Rep : Thank you very much , and how may I help you
+Caller ; Well I made my payment for January , however on the credit report it is showing delinquent for 4 months instead of 3 months.
+Rep : Let me check , can I place your call on hold 
+Caller : Sure
+Rep : Thank you Miss Jackson for  being on hold . I will like to advise you that credit reporting happens 30 days from the due date and late charges are assessed 15 days from the due date . I can raise a case for further investigation of the dispute you have for your credit report. You can get in touch with the credit bureau agency to check the status.
+Caller : Well if you can do something about it it will be appreciated. I am employed with Google and they don’t leave me with my time for other activities.
+Rep : sure mam , I will go ahead and raise a case , request you to sent in the copy of your credit  report to us via fax , the fax number is 800 -753-2545 , meanwhile I will raise a case for the same
+
+Caller : Ok I will send the document to you. 
+Rep : is there anything else I may help you with
+Caller : Yes please update my email address in your records as sjackson@yahoo.com
+Rep: Sure and thanks. You have a good day
+Rep you too

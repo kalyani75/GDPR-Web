@@ -1,0 +1,12 @@
+Rep : Can I speak to James Hooks
+Caller : This is he 
+Rep : Hi Mr Hooks , this is Charles calling from ABC . Your account 234-456-34 is showing due for April , let me advise you this call may be monitored or recorded for quality purposes.
+Caller : I will make the make payment on 25th of the month. I am out of funds since I just paid out of pocket for my knee surgery a
+Rep : Please be advised the credit bureau reporting happens every 30 days and late charges are assessed after 15 days from the due date.
+Caller : Yes I am aware about it but I cannot help it. Me and my 2 kids are currently living on my wives earning. I get paid on 25th and I will make the payment to bring the account current
+Rep : Thank you Mr Hooks . I would like to inform you that this has a negative effect on your credit rating. Is there any thing else you will like to know about the account.
+Caller : I want to add my email address to my account. It is james@gmail.com
+Rep :  Sure. Can you confirm your birthdate for verification?
+Caller. Yes it is 29 Aug 1977.
+Rep: Thank you. Done.Thanks for doing business with ABC you have a good day bye bye
+Caller : Bye bye

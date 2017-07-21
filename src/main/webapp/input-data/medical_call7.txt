@@ -1,0 +1,12 @@
+Rep : Can I speak to Jose Fernis
+Caller : This is he who is this
+Rep : This Thomas from ABC
+Caller : I know I am behind , I had a surgery hence I was not able to make a payment
+Rep : how long its been for your surgery
+Caller its been a month now , so I was not able to make the payment
+Rep : May I know when can you make a payment
+Caller : I will make it by month end, once I rejoin my job.
+Rep : Thank you , I will make a note of it , that you had a surgery so you were not able to make the payment and you will make payment by month end 
+
+Caller : Yes
+Rep : thank you Bye bye

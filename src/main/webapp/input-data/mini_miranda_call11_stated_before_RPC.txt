@@ -1,0 +1,13 @@
+Rep: Thank you for calling ABC, This is Natasha. What is your name ?
+Caller: Hi my name is Tina Smith. I am calling in regards to my account.
+Rep: can I have your account number.
+Caller: My account number is 123456
+Rep: Thank you, before we go ahead with the call let me advise you “since you are living In the state of North Carolina - This is an attempt to collect a debt, any information obtained will be used for that purpose”
+Rep: can I have the last 6 of your ssn.
+Caller: 987654
+Caller: I want my account balance.
+Rep: It is showing your account is due for the month of April for the amount of $265.
+Caller: Thanks, also I am a 36 year old law graduate, employed with Solomon Legal service for 10 years. How much loan am I eligible for?
+Rep: please give me family details
+Caller: I am married with 3 children ages 2,5 and 7
+Rep. I will check and call you back on 345-567-8888. thank you for calling ABC, have a nice day!!.
